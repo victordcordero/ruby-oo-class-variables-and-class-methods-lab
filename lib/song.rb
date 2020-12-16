@@ -52,4 +52,3 @@ class Song
         artist_count
       end
 end
-0
